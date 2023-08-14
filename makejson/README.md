@@ -1,0 +1,1 @@
+This program will prints a JSON object with keys ("name", "address") and they are associated with the name and address that was entered.
