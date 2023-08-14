@@ -6,7 +6,7 @@ import(
 )
 
 func containsDuplicate(nums []int) bool {
-    //using map method 
+        //using map method 
 	//map keys are integers
 	//the values are booleans 
 	// to indicate whether the number has been encountered.
